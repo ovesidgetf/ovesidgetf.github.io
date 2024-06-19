@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ovesidgetf.github.io/sitemap
+Sitemap: https://ovesidgetf.github.io/app/sitemap
+Sitemap: https://ovesidgetf.github.io/assets/sitemap
+Sitemap: https://ovesidgetf.github.io/css/sitemap
+Sitemap: https://ovesidgetf.github.io/includes/sitemap
+Sitemap: https://ovesidgetf.github.io/item/sitemap
+Sitemap: https://ovesidgetf.github.io/src/sitemap
